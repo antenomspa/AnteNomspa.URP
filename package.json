@@ -1,0 +1,13 @@
+{
+  "name": "com.antenomspa.urp",
+  "displayName": "AnteNomspa.URP",
+  "version": "0.1.0",
+  "unity": "6000.1",
+  "unityRelease": "0f1",
+  "description": "The Universal Render Pipeline package for other projects by Anne CH Postma aka Ante Nomspa",
+  "dependencies": {},
+  "author": {
+    "name": "Anne CH Postma",
+    "email": "antenomspa@icloud.com"
+  }
+}
