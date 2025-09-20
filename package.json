@@ -5,7 +5,9 @@
   "unity": "6000.1",
   "unityRelease": "0f1",
   "description": "The Universal Render Pipeline package for other projects by Anne CH Postma aka Ante Nomspa",
-  "dependencies": {},
+  "dependencies": {
+    "AnteNomspa.CORE": "0.1.0"
+  },
   "author": {
     "name": "Anne CH Postma",
     "email": "antenomspa@icloud.com"
